@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FunctionApp12": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7067"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7067"
+    }
+  }
+}
