@@ -64,7 +64,7 @@ jobs:
    
    steps:
     - name: Upload a Build Artifact
-      uses: actions/downlad-artifact@v3
+      uses: actions/downlad-artifact@v3.0.2
       with:
        name: 'dotnetartifact'# optional, default is artifact
        path: ./output     
